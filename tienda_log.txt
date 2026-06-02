@@ -34,3 +34,15 @@ may 24, 2026 9:05:12 P. M. util.LoggerTienda info
 INFORMACIÓN: Cliente registrado: C001
 may 24, 2026 9:05:12 P. M. util.LoggerTienda info
 INFORMACIÓN: Cliente registrado: C002
+may 24, 2026 9:07:57 P. M. util.LoggerTienda info
+INFORMACIÓN: Producto registrado: P001
+may 24, 2026 9:07:57 P. M. util.LoggerTienda info
+INFORMACIÓN: Producto registrado: P002
+may 24, 2026 9:07:57 P. M. util.LoggerTienda info
+INFORMACIÓN: Producto registrado: P003
+may 24, 2026 9:07:57 P. M. util.LoggerTienda info
+INFORMACIÓN: Producto registrado: P004
+may 24, 2026 9:07:57 P. M. util.LoggerTienda info
+INFORMACIÓN: Cliente registrado: C001
+may 24, 2026 9:07:57 P. M. util.LoggerTienda info
+INFORMACIÓN: Cliente registrado: C002
